@@ -7,8 +7,8 @@
 -->
 <br>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=SeungHoon-Kang)](https://github.com/anuraghazra/github-readme-stats)
-
+<!--[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=SeungHoon-Kang)](https://github.com/anuraghazra/github-readme-stats)
+-->
 <br>
 
 <h3 align="left">🛠 Tech Stack 🛠</h3>
