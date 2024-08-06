@@ -25,6 +25,7 @@
 <img src="https://img.shields.io/badge/-firebase-FFCA28?style=for-the-badge&logo=firebasen&logoColor=black">
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
 </span>
 
 
