@@ -23,6 +23,8 @@
 <img src="https://img.shields.io/badge/-sass-CC6699?style=for-the-badge&logo=sass&logoColor=black">
 <img src="https://img.shields.io/badge/-Python-%233776AB?style=for-the-badge&logo=Python&logoColor=black">
 <img src="https://img.shields.io/badge/-firebase-FFCA28?style=for-the-badge&logo=firebasen&logoColor=black">
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
 </span>
 
 
